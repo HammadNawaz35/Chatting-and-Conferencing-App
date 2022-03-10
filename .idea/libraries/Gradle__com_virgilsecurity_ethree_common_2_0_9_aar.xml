@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.virgilsecurity:ethree-common:2.0.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/481e01ec5ee1295c1e6058f12a79fa21/jetified-ethree-common-2.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7fadbddfd59ee0290ca44e4b15572f3d/jetified-ethree-common-2.0.9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7fadbddfd59ee0290ca44e4b15572f3d/jetified-ethree-common-2.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7fadbddfd59ee0290ca44e4b15572f3d/jetified-ethree-common-2.0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/ethree-common/2.0.9/c32a6be3274693bc4e5b153f07c39322fc885d7d/ethree-common-2.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/ethree-common/2.0.9/10a7173271b0aeb3a22d00234f8022a20a8241af/ethree-common-2.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

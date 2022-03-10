@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5,13,2,8,7,10,9,14,12,11,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "97,155,211,588,55,343,301,435,386,640,537,487,258",
+                        "endColumns": "57,55,46,51,41,42,41,51,48,53,50,49,42",
+                        "endOffsets": "150,206,253,635,92,381,338,482,430,689,583,532,296"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,216,268,310,353,395,447,496,835,886,936",
+                        "endColumns": "57,55,46,51,41,42,41,51,48,53,50,49,42",
+                        "endOffsets": "108,164,211,263,305,348,390,442,491,545,881,931,974"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HAMMAD\\.gradle\\caches\\transforms-2\\files-2.1\\8d76553dee8f37e4f350ff79c2ff0c56\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "550,623,693,765",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "618,688,760,830"
+                    }
+                }
+            ]
+        }
+    ]
+}

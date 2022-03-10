@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    >
+
+
+
+
+    <!--    <com.tomer.fadingtextview.FadingTextView-->
+    <!--        android:id="@+id/fadingText"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginStart="30dp"-->
+    <!--        android:layout_marginTop="100dp"-->
+    <!--        android:layout_marginEnd="30dp"-->
+    <!--        android:gravity="center"-->
+    <!--        android:textColor="@color/colorAccent"-->
+    <!--        android:textSize="25sp"-->
+    <!--        android:textStyle="bold"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:texts="@array/meet"-->
+    <!--        app:timeout="500"-->
+    <!--        tools:ignore="MissingConstraints" />-->
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="19dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:background="@color/cardBgColor"
+            android:id="@+id/l2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+
+            <ImageView
+                android:id="@+id/jimageView2"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/video" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="Join Meeting"
+                android:textColor="@color/colorText"
+                android:layout_gravity="center"
+                android:textSize="22sp"
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                />
+
+
+            <TextView
+                android:id="@+id/jtextView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="Please Share this code with your others to start video conferencing"
+                android:textColor="@color/blue"
+                android:textSize="14sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/jcodebox"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                     android:drawableTint="@color/coloricon"
+                    android:textColorHint="@color/hintcolor"
+                    android:background="@drawable/et_bg"
+                    android:drawableLeft="@drawable/pass"
+
+                     android:textColor="@color/colorText"
+                    android:gravity="center"
+                    android:hint="Meeting Id"
+                    android:padding="10dp" />
+
+                <ImageView
+                    android:id="@+id/jpastelink"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginLeft="-50dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_paste"
+                    app:tint="@color/coloricon" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/jjoinbtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:layout_margin="15dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_round_buttons"
+                    android:backgroundTint="@color/join"
+                    android:paddingLeft="10dp"
+                    android:drawableTint="@color/white"
+                    android:drawableLeft="@drawable/ic_history"
+                    android:gravity="center"
+                    android:text="Join"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/jsharebtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:layout_margin="15dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_round_buttons"
+
+                    android:paddingLeft="10dp"
+                    android:drawableLeft="@drawable/ic_share"
+                    android:gravity="center"
+                    android:text="Share"
+
+                    android:textColor="@color/white" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

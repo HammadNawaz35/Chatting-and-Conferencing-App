@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.virgilsecurity.sdk:crypto:7.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.sdk/crypto/7.3.2/c0848c6c7d12c4417f717e93c30142c84c5d9d67/crypto-7.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.sdk/crypto/7.3.2/5f5e35f6351678e85396a3b74a2cdca157507b6a/crypto-7.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.sdk/crypto/7.3.2/99120123a14680482c3bfb184b7961cf457df0bf/crypto-7.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

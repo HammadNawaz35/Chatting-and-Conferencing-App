@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/layout/activity_chat.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/layout/activity_meeting_history.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/layout/fragment_security.xml" value="0.1796875" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/layout/fragment_settings.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/layout/fragment_status.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/layout/layout_screen.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/layout/typing_layout.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/menu/menu_main.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/xml/pref_chat.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/HAMMAD/Desktop/fyp/app/src/main/res/xml/pref_notification.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (41)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

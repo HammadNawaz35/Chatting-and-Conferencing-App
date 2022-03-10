@@ -1,0 +1,1562 @@
+[
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lockscreen.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_lockscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_insert_emoticon_white.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_insert_emoticon_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_phone_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_phone_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_camera.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\attach_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_forward.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_document.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\attach_document.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_uptodown.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\uptodown.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_received.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_call_received.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_meeting_history.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_meeting_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_videocam_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_videocam_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_broadcast_with_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_broadcast_with_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bg_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_bg_blue.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\circle_bg_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_img_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\user_img_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_deleted_message.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_deleted_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_location.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\attach_location.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image1.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_done_all.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_done_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_audio.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\attach_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_settings.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\navigation\\nav_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_reply.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_img.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\user_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_file.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\attach_file.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_call_end_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\baseline_call_end_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meet2.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\meet2.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_screen.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\layout_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_scrim.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bg_scrim.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_audio.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_received_message.9.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\received_message.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_material_img.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\material_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_content_copy.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_content_copy.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forward.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_basket_red.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\basket_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_middle.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\to_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_update_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_update_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_24.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\content_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mic_icon.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\mic_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exit_to_app_white.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_exit_to_app_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_seen_by.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_seen_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_phone_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\baseline_phone_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_scroll_icon.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\btn_scroll_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_file.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_videocam.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_videocam.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image3.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_blue.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_phone_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_contact.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_delete_dialog.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_delete_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_call_end_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\baseline_call_end_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_alarm.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exit_to_app.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_exit_to_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_file.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\attach_file.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_mgradient.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\btn_mgradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_noti_icon.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_noti_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_file.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\attach_file.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_message_img.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_message_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_image.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\splash_image.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_noti_icon.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_noti_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_account_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_active_icon_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\active_icon_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_phone_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\baseline_phone_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_menu_admin_options.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\popup_menu_admin_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-night-hdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corner_orange.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\rounded_corner_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_reply_status_bottomsheet.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\reply_status_bottomsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialog_layout.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\progress_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_host.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_not_interested_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_not_interested_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_call_end_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_call_end_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\font_oswald.ttf.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\font\\oswald.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\btn_rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_my_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_my_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_group_title.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\dialog_group_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_parital_group_user.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_parital_group_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_action_my_statuses.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_action_my_statuses.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_holding_phone.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_holding_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exit_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_exit_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_contact_numbers.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_select_contact_numbers.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_play_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-xxhdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-night-xxhdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_message_text.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_message_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_save_e2_e.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_save_e2_e.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_read.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_check_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_broadcast.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_broadcast.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-xhdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-night-xhdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_details.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_contact_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_media_gallery.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_media_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_location_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_left.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_right_arrow_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_right_arrow_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_noti_icon.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\ic_noti_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_status_header.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_status_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_contact_picker.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_contact_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_button_animation.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\button_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_contact_details.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_contact_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_enter_username.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_enter_username.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unread_count_text_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\unread_count_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_meeting_history.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_meeting_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_message_img.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_message_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_up.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_circle_outline.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_remove_circle_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_red_eye.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_remove_red_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_verify_phone.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_verify_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_ic.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\delete_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_place.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat3.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\chat3.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_new_call.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_new_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_speaker_pressed.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_speaker_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_camera.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\attach_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_img_activity.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_img_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_new_call.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_new_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_music_note.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_music_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_gradient.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\btn_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pass.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\pass.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calls.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_gradient_meeting.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\btn_gradient_meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_phone_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_phone_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_phone_number.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_share_group_link.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_share_group_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_color_lens.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_color_lens.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_meeting.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_selector.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_security_authentication.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_security_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone_call.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_phone_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_up.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authentication.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_insert_link.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_insert_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_speaker_normal.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_speaker_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_duration.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\duration.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_accept_invite_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\accept_invite_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_twitter.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_bg_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\circle_bg_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_logged_out.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_logged_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fullscreen.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_file.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_insert_emoticon_black.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_insert_emoticon_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_new_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_new_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_status_camera.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_new_status_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_watch_later.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_watch_later.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_location.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_right_big.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_right_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_security.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\xml\\pref_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_videocam_blue.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_videocam_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_file_download.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_file_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_backup_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_backup_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_not_interested.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_not_interested.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image2.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_profile_photo.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_profile_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_right.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\raw_demo.mp4.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\raw\\demo.mp4"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_audio.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\attach_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_big.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_person_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_placeholder.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_language.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\et_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_places_bottomsheet.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\places_bottomsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_noti_icon.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\ic_noti_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_buttons.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bg_round_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_media.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_contact.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\attach_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_photo.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_profile_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_contact.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_reply.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\item_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fagment_profile_settings.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fagment_profile_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_default.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\indicator_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_tv.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bg_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_fragment.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\about_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_privacy_policy_fragment.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\privacy_policy_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_image_view.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_selected.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\indicator_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_video_view.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_video_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_message_video.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_message_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_gallery.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\attach_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_add.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_person_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setup_user.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_setup_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_noti_icon.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\ic_noti_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_audio.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_down.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_end.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_call_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_camera.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\attach_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fingerprint_24.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_baseline_fingerprint_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_file_upload.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_file_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_gallery.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\attach_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_menu_broadcast_options.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\popup_menu_broadcast_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_group.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_new_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\raw_progress_tone.wav.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\raw\\progress_tone.wav"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_privacy_policy_dialog.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\privacy_policy_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_horiz.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_more_horiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_update.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scroll_circle_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\scroll_circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_phone_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\baseline_phone_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_group_participant.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_group_participant.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_meetings.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_meetings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone_call_alt.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_phone_call_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_location.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\attach_location.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_copy.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_copy.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_agree_privacy_policy.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_agree_privacy_policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_file.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\attach_file.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image4.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_security.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_gallery_action.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_gallery_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_user_details.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\content_user_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_location_black_24dp.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_my_location_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_deleted_message.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_deleted_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_large.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_person_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_forward.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_headset.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_headset.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_message_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_action_chat_list.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_action_chat_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic_sent_with_stroke.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_mic_sent_with_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_document.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\attach_document.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_downtoup.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\downtoup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_border_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\textfield_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_gallery.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\attach_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_details.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_user_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_ignore_battery.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\dialog_ignore_battery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_phone_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_text_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_text_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group_admin_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\group_admin_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_image_dr.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\splash_image_dr.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_not_supported.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_not_supported.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_group_event.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bg_group_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_call.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_new_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_white.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_phone_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_action_calls.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_action_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chatappicon.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\chatappicon.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_speaker.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_speaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_photo_dialog.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_profile_photo_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_places_picker.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_places_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_gallery.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\attach_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_attachments_items.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\attachments_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_typing_layout.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\typing_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconstatus.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\iconstatus.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_attach_file.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_attach_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_message_voice.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_message_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_audio.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\attach_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_block_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_block_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_contact.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\attach_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_call_end_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\baseline_call_end_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_backup.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_brightness.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_baseline_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_view_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_policy_24px.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_policy_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_camera.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_photo_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_contact.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-mdpi\\attach_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_location.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\attach_location.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_my_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\content_my_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\xml\\pref_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_arrow.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_block.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corner_green.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\rounded_corner_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_img_wrapped_black.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\user_img_wrapped_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_insert_drive_file.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_insert_drive_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_backup_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\content_backup_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_chats.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_history.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_voice_message.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_voice_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_call_end_black_24.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_call_end_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_action_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_action_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_up.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_volume_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic_read_with_stroke.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_mic_read_with_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_gallery.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enter_username.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_enter_username.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_join.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_document.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\attach_document.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_audio.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\attach_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_user.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_sticker.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check_image_overlay.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\check_image_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_forward.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_up.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_location.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_tabs.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bg_round_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_status.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_my_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_chat.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_new_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sticker.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_white.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_edit_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_new_group_selected_user.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_new_group_selected_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_day.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_off.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_volume_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_enter_phone_number.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\fragment_enter_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_file_upload_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_file_upload_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_location.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\attach_location.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_settings_items.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bg_round_settings_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_seen_by_bottomsheet.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\seen_by_bottomsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_end_wrapped.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_call_end_wrapped.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_paste.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_paste.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meet.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\meet.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_message_video.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_message_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-night-mdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-night-mdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_contact.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xxhdpi\\attach_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_received_message_text.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_received_message_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_broadcast_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_broadcast_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_made.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_call_made.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sent_sticker.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_sent_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sent_message.9.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\sent_message.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_restore_in_progress.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_restore_in_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_watch_later_green.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_watch_later_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_group_event.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_group_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_signup.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\navigation\\nav_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_call.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\row_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_camera.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-xhdpi\\attach_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_add.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_group_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_cant_send_layout.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\cant_send_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_hd.jpg.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable-hdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_play_bg.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\btn_play_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgimg.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\bgimg.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accept_invite_link.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\layout\\activity_accept_invite_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_user_details.xml.flat",
+        "source": "C:\\Users\\HAMMAD\\Desktop\\fyp\\app\\src\\main\\res\\menu\\menu_user_details.xml"
+    }
+]

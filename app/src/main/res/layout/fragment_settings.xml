@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8E8E8"
+    android:orientation="vertical">
+
+
+
+
+    <TextView
+        android:id="@+id/tv_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:clickable="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:drawableLeft="@drawable/ic_account_circle"
+        android:drawableEnd="@drawable/ic_keyboard_arrow_right"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/pref_header_profile"
+        android:textColor="@color/colorText"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/tv_notifications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/bg_round_settings_items"
+        android:drawableEnd="@drawable/ic_keyboard_arrow_right"
+        android:clickable="true"
+        android:drawableLeft="@drawable/ic_notifications"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/pref_header_notifications"
+        android:textColor="@color/colorText"
+        android:textSize="16sp"
+        android:visibility="visible" />
+    <View
+        android:id="@+id/vhew2"
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:background="#A3A3A2"
+        android:layout_height="1dp" />
+
+    <!--    <androidx.cardview.widget.CardView -->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content">-->
+
+    <TextView
+        android:id="@+id/tv_security"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:drawableEnd="@drawable/ic_keyboard_arrow_right"
+        android:clickable="true"
+        android:drawableLeft="@drawable/ic_security"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/security"
+        android:textColor="@color/colorText"
+        android:textSize="16sp" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+
+        android:background="#A3A3A2"
+        android:layout_height="1dp" />
+    <TextView
+        android:id="@+id/tv_lang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:drawableEnd="@drawable/ic_keyboard_arrow_right"
+        android:clickable="true"
+        android:visibility="gone"
+        android:drawableLeft="@drawable/ic_alarm"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/language"
+        android:textColor="@color/colorText"
+        android:textSize="16sp" />
+
+
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:visibility="gone"
+        android:background="#A3A3A2"
+        android:layout_height="1dp" />
+
+    <TextView
+        android:id="@+id/tv_chat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:drawableEnd="@drawable/ic_keyboard_arrow_right"
+        android:clickable="true"
+        android:drawableLeft="@drawable/ic_chat"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/pref_header_chat"
+        android:textColor="@color/colorText"
+        android:textSize="16sp"
+        android:visibility="visible" />
+    <View
+        android:id="@+id/vhiew2"
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:background="#A3A3A2"
+        android:layout_height="1dp" />
+
+
+    <TextView
+        android:id="@+id/tv_privacy_policy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:clickable="true"
+        android:drawableLeft="@drawable/ic_policy_24px"
+        android:drawableEnd="@drawable/ic_keyboard_arrow_right"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/privacy_policy"
+        android:textColor="@color/colorText"
+        android:textSize="16sp" />
+<!--    <View-->
+
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_marginStart="40dp"-->
+<!--        android:layout_marginEnd="40dp"-->
+<!--        android:background="#A3A3A2"-->
+<!--        android:layout_height="1dp" />-->
+
+
+    <TextView
+        android:id="@+id/tv_about"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:clickable="true"
+        android:drawableEnd="@drawable/ic_keyboard_arrow_right"
+        android:drawableLeft="@drawable/ic_info"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/about"
+        android:textColor="@color/colorText"
+        android:textSize="16sp" />
+    <View
+        android:id="@+id/vhw2"
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:background="#A3A3A2"
+        android:layout_height="1dp" />
+    <Switch
+        android:id="@+id/themee"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:clickable="true"
+        android:drawableLeft="@drawable/ic_baseline_brightness"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/theme"
+        android:textColor="@color/colorText"
+        android:textSize="16sp" />
+    <View
+        android:id="@+id/j2"
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:visibility="gone"
+        android:layout_marginEnd="40dp"
+        android:background="#A3A3A2"
+        android:layout_height="1dp" />
+    <Switch
+        android:id="@+id/lang"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_round_settings_items"
+        android:clickable="true"
+        android:visibility="gone"
+        android:drawableLeft="@drawable/ic_history"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/coloricon"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:text="@string/language"
+        android:textColor="@color/colorText"
+        android:textSize="16sp" />
+
+
+</LinearLayout>

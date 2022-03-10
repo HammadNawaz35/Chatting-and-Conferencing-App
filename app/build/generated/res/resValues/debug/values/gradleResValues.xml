@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from default config. -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <!-- Value from default config. -->
+    <string name="agora_app_id" translatable="false">32b38fc09c824f398d9d02feddcd5cd0</string>
+    <!-- Value from default config. -->
+    <string name="app_folder_name" translatable="false">C&amp;C App</string>
+    <!-- Value from default config. -->
+    <string name="app_name" translatable="false">C&amp;C App</string>
+    <!-- Value from default config. -->
+    <bool name="are_ads_enabled">false</bool>
+    <!-- Value from default config. -->
+    <string name="banner_unit_id_main" translatable="false"></string>
+    <!-- Value from default config. -->
+    <string name="banner_unit_id_new_chat" translatable="false"></string>
+    <!-- Value from default config. -->
+    <string name="email" translatable="false"></string>
+    <!-- Value from default config. -->
+    <string name="encryption_type" translatable="false">AES</string>
+    <!-- Value from default config. -->
+    <string name="foursquare_client_id" translatable="false">KU3NTQLIS4XZ0101XXAKUQPYF3MSU5EJ5QKWVRRSUI3D3YYG</string>
+    <!-- Value from default config. -->
+    <string name="foursquare_client_secret" translatable="false">SXCVEQD2Q33B3BAQMI2AER3ZYXJLKR5IA2STYENS35AVDCAD</string>
+    <!-- Value from default config. -->
+    <string name="group_invite_host" translatable="false">join.chatapp.com</string>
+    <!-- Value from default config. -->
+    <bool name="ignore_battery_optimizations_dialog">true</bool>
+    <!-- Value from default config. -->
+    <string name="interstitial_ad_id" translatable="false"></string>
+    <!-- Value from default config. -->
+    <bool name="is_calls_ad_enabled">false</bool>
+    <!-- Value from default config. -->
+    <bool name="is_interstitial_ad_enabled">false</bool>
+    <!-- Value from default config. -->
+    <bool name="is_new_chat_ad_enabled">false</bool>
+    <!-- Value from default config. -->
+    <bool name="is_status_ad_enabled">false</bool>
+    <!-- Value from default config. -->
+    <string name="maps_api_key" translatable="false">AIzaSyDzBEh_-c87slyFEI-Rh6125mtmN-sRhrY</string>
+    <!-- Value from default config. -->
+    <integer name="max_broadcast_users_count">200</integer>
+    <!-- Value from default config. -->
+    <integer name="max_group_call_count">11</integer>
+    <!-- Value from default config. -->
+    <integer name="max_group_users_count">500</integer>
+    <!-- Value from default config. -->
+    <integer name="max_status_video_time">30</integer>
+    <!-- Value from default config. -->
+    <string name="privacy_policy_link" translatable="false">http://chatapp.com/fireapp_privacy_policy.html</string>
+    <!-- Value from default config. -->
+    <string name="twitter_account" translatable="false"></string>
+    <!-- Value from default config. -->
+    <string name="update_app_link" translatable="false">http://chatapp.com/</string>
+    <!-- Value from default config. -->
+    <string name="website" translatable="false">http://chatapp.com/</string>
+
+</resources>

@@ -1,0 +1,1525 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tech.world"
+4    android:versionCode="31"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml
+10    <!-- PERMISSIONS -->
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.READ_CONTACTS" />
+14-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:9:5-72
+14-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:9:22-69
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission
+16-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:11:5-13:38
+17        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+17-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:12:9-65
+18        android:maxSdkVersion="28" />
+18-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:13:9-35
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:14:5-65
+19-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:14:22-62
+20    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+20-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:15:5-71
+20-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:15:22-68
+21    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+21-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:16:5-80
+21-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:16:22-77
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:17:5-68
+22-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:17:22-65
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:18:5-81
+23-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:18:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:19:5-79
+24-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:19:22-76
+25    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+25-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:20:5-81
+25-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:20:22-78
+26    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+26-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:21:5-75
+26-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:21:22-72
+27    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+27-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:22:5-82
+27-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:22:22-79
+28    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+28-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:23:5-77
+28-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:23:22-74
+29    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+29-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:24:5-81
+29-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:24:22-78
+30
+31    <uses-feature
+31-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:26:5-28:36
+32        android:name="android.hardware.location.network"
+32-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:27:9-57
+33        android:required="false" />
+33-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:28:9-33
+34    <uses-feature
+34-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:29:5-31:36
+35        android:name="android.hardware.location.gps"
+35-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:30:9-53
+36        android:required="false" />
+36-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:31:9-33
+37
+38    <queries>
+38-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:11:5-22:15
+39        <intent>
+39-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:12:9-18:18
+40            <action android:name="android.intent.action.GET_CONTENT" />
+40-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:13:13-72
+40-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:13:21-69
+41
+42            <category android:name="android.intent.category.OPENABLE" />
+42-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:15:13-73
+42-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:15:23-70
+43
+44            <data android:mimeType="*/*" />
+44-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+44-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:23-52
+45        </intent>
+46        <intent>
+46-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:19:9-21:18
+47            <action android:name="android.media.action.IMAGE_CAPTURE" />
+47-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:20:13-73
+47-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:20:21-70
+48        </intent>
+49        <!-- For browser content -->
+50        <intent>
+50-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:30:9-36:18
+51            <action android:name="android.intent.action.VIEW" />
+51-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:269:17-69
+51-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:269:25-66
+52
+53            <category android:name="android.intent.category.BROWSABLE" />
+53-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:272:17-78
+53-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:272:27-75
+54
+55            <data android:scheme="https" />
+55-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+55-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:277:21-42
+56        </intent> <!-- End of browser content -->
+57        <!-- For CustomTabsService -->
+58        <intent>
+58-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:39:9-41:18
+59            <action android:name="android.support.customtabs.action.CustomTabsService" />
+59-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:40:13-90
+59-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:40:21-87
+60        </intent>
+61    </queries>
+62
+63    <uses-permission android:name="android.permission.BLUETOOTH" />
+63-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:11:5-68
+63-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:11:22-65
+64    <uses-permission android:name="android.permission.MANAGE_OWN_CALLS" />
+64-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:14:5-75
+64-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:14:22-72
+65    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+65-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:17:5-78
+65-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:17:22-75
+66
+67    <uses-feature
+67-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:22:5-24:35
+68        android:glEsVersion="0x00020000"
+68-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:23:9-41
+69        android:required="true" />
+69-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:24:9-32
+70    <uses-feature
+70-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:25:5-27:36
+71        android:name="android.hardware.camera"
+71-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:26:9-47
+72        android:required="false" />
+72-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:27:9-33
+73    <uses-feature
+73-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:28:5-30:36
+74        android:name="android.hardware.camera.autofocus"
+74-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:29:9-57
+75        android:required="false" />
+75-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:30:9-33
+76
+77    <uses-permission android:name="android.permission.USE_BIOMETRIC" /> <!-- suppress DeprecatedClassUsageInspection -->
+77-->[androidx.biometric:biometric:1.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\baa966f6291639667e7878d9c56f5358\biometric-1.1.0\AndroidManifest.xml:24:5-72
+77-->[androidx.biometric:biometric:1.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\baa966f6291639667e7878d9c56f5358\biometric-1.1.0\AndroidManifest.xml:24:22-69
+78    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+78-->[androidx.biometric:biometric:1.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\baa966f6291639667e7878d9c56f5358\biometric-1.1.0\AndroidManifest.xml:27:5-74
+78-->[androidx.biometric:biometric:1.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\baa966f6291639667e7878d9c56f5358\biometric-1.1.0\AndroidManifest.xml:27:22-71
+79    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+79-->[com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e9d96592557b756bcfeda45a491859ee\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:11:5-73
+79-->[com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e9d96592557b756bcfeda45a491859ee\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:11:22-70
+80    <uses-permission android:name="android.permission.READ_CALENDAR" /> <!-- for android -->
+80-->[com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e9d96592557b756bcfeda45a491859ee\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:12:5-72
+80-->[com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e9d96592557b756bcfeda45a491859ee\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:12:22-69
+81    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+82    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+83    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+84    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+85    <!-- for Samsung -->
+86    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+86-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
+86-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
+87    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+87-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
+87-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
+88    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+88-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
+88-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
+89    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+89-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
+89-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
+90    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+90-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
+90-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
+91    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+91-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
+91-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
+92    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+92-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
+92-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
+93    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+93-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
+93-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
+94    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+94-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
+94-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
+95    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+95-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
+95-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
+96    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+96-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
+96-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
+97    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+97-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
+97-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
+98    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+98-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
+98-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
+99    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+99-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
+99-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
+100    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+100-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
+100-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
+101    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+101-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
+101-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67077d614a5be369ce14b05efa80ecc7\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86
+102    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+102-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:5-110
+102-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:22-107
+103
+104    <application
+104-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:33:5-354:19
+105        android:name="com.tech.world.utils.MyApp"
+105-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:34:9-36
+106        android:allowBackup="false"
+106-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:35:9-36
+107        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+107-->[androidx.core:core:1.5.0-beta01] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\9e1c69a6c68b78d29bf7665aafd9f6c3\core-1.5.0-beta01\AndroidManifest.xml:24:18-86
+108        android:debuggable="true"
+109        android:extractNativeLibs="false"
+110        android:icon="@mipmap/ic_launcher"
+110-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:36:9-43
+111        android:label="@string/app_name"
+111-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:37:9-41
+112        android:roundIcon="@mipmap/ic_launcher_round"
+112-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:38:9-54
+113        android:supportsRtl="false"
+113-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:39:9-36
+114        android:testOnly="true"
+115        android:theme="@style/SplashScreenTheme" >
+115-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:40:9-49
+116        <activity
+116-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:42:9-44:40
+117            android:name="com.tech.world.activities.settings.SettingsFragments"
+117-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:43:13-66
+118            android:exported="false" />
+118-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:44:13-37
+119        <activity
+119-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:45:9-48:47
+120            android:name="com.tech.world.activities.main.MeetingHistoryActivity"
+120-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:46:13-67
+121            android:exported="false"
+121-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:47:13-37
+122            android:label="@string/history" />
+122-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:48:13-44
+123        <activity
+123-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:49:9-51:40
+124            android:name="com.tech.world.activities.main.MeetingActivity"
+124-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:50:13-60
+125            android:label="Meetings" />
+125-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:51:13-37
+126
+127        <service
+127-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:53:9-56:40
+128            android:name="com.tech.world.services.CompleteSetupService"
+128-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:54:13-58
+129            android:enabled="true"
+129-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:55:13-35
+130            android:exported="false" />
+130-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:56:13-37
+131        <service
+131-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:57:9-60:40
+132            android:name="com.tech.world.services.BackupService"
+132-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:58:13-51
+133            android:enabled="true"
+133-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:59:13-35
+134            android:exported="false" />
+134-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:60:13-37
+135
+136        <uses-library
+136-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:62:9-64:40
+137            android:name="org.apache.http.legacy"
+137-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:63:13-50
+138            android:required="false" /> <!-- ACTIVITIES -->
+138-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:64:13-37
+139        <activity
+139-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:65:9-69:58
+140            android:name="com.tech.world.activities.setup.EnterUsernameActivity"
+140-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:66:13-67
+141            android:screenOrientation="portrait"
+141-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:67:13-49
+142            android:theme="@style/AppTheme"
+142-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:68:13-44
+143            android:windowSoftInputMode="adjustResize" />
+143-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:69:13-55
+144        <activity
+144-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:70:9-72:52
+145            android:name="com.tech.world.activities.LoggedOutActivity"
+145-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:71:13-57
+146            android:screenOrientation="portrait" />
+146-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:72:13-49
+147        <activity
+147-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:73:9-75:52
+148            android:name="com.tech.world.activities.SaveE2EActivity"
+148-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:74:13-55
+149            android:screenOrientation="portrait" />
+149-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:75:13-49
+150        <activity
+150-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:76:9-80:54
+151            android:name="com.tech.world.activities.LockscreenActivity"
+151-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:77:13-58
+152            android:launchMode="singleTask"
+152-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:78:13-44
+153            android:screenOrientation="portrait"
+153-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:79:13-49
+154            android:theme="@style/FullscreenTheme" />
+154-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:80:13-51
+155        <activity
+155-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:81:9-86:71
+156            android:name="com.tech.world.activities.authentication.AuthenticationActivity"
+156-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:82:13-77
+157            android:exported="true"
+157-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:83:13-36
+158            android:screenOrientation="portrait"
+158-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:84:13-49
+159            android:theme="@style/AppTheme.NoActionBar"
+159-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:85:13-56
+160            android:windowSoftInputMode="stateVisible|adjustResize" />
+160-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:86:13-68
+161        <activity
+161-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:87:9-90:59
+162            android:name="com.tech.world.activities.UpdateActivity"
+162-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:88:13-54
+163            android:screenOrientation="portrait"
+163-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:89:13-49
+164            android:theme="@style/AppTheme.NoActionBar" />
+164-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:90:13-56
+165        <activity
+165-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:91:9-95:71
+166            android:name="com.tech.world.activities.TextStatusActivity"
+166-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:92:13-58
+167            android:screenOrientation="portrait"
+167-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:93:13-49
+168            android:theme="@style/AppTheme.Translucent"
+168-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:94:13-56
+169            android:windowSoftInputMode="stateVisible|adjustResize" />
+169-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:95:13-68
+170        <activity
+170-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:96:9-100:59
+171            android:name="com.tech.world.activities.main.MainActivity"
+171-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:97:13-57
+172            android:launchMode="singleTop"
+172-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:98:13-43
+173            android:screenOrientation="portrait"
+173-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:99:13-49
+174            android:theme="@style/AppTheme.NoActionBar" />
+174-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:100:13-56
+175        <activity
+175-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:101:9-104:47
+176            android:name="com.tech.world.activities.ShareGroupLinkActivity"
+176-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:102:13-62
+177            android:screenOrientation="portrait"
+177-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:103:13-49
+178            android:theme="@style/AppTheme" />
+178-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:104:13-44
+179        <activity android:name="com.tech.world.activities.SplashActivity" />
+179-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:105:9-63
+179-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:105:19-60
+180        <activity
+180-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:106:9-114:20
+181            android:name="com.tech.world.activities.IntroActivity"
+181-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:107:13-53
+182            android:screenOrientation="portrait" >
+182-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:108:13-49
+183            <intent-filter>
+183-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:109:13-113:29
+184                <action android:name="android.intent.action.MAIN" />
+184-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:110:17-69
+184-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:110:25-66
+185
+186                <category android:name="android.intent.category.LAUNCHER" />
+186-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:112:17-77
+186-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:112:27-74
+187            </intent-filter>
+188        </activity>
+189        <activity
+189-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:115:9-118:59
+190            android:name="com.tech.world.activities.NewChatActivity"
+190-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:116:13-55
+191            android:screenOrientation="portrait"
+191-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:117:13-49
+192            android:theme="@style/AppTheme.NoActionBar" />
+192-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:118:13-56
+193        <activity
+193-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:119:9-124:59
+194            android:name="com.tech.world.activities.main.messaging.ChatActivity"
+194-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:120:13-67
+195            android:label=""
+195-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:121:13-29
+196            android:parentActivityName="com.tech.world.activities.main.MainActivity"
+196-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:122:13-71
+197            android:screenOrientation="portrait"
+197-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:123:13-49
+198            android:theme="@style/AppTheme.NoActionBar" />
+198-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:124:13-56
+199        <activity
+199-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:125:9-129:54
+200            android:name="com.tech.world.activities.FullscreenActivity"
+200-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:126:13-58
+201            android:label=""
+201-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:127:13-29
+202            android:screenOrientation="portrait"
+202-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:128:13-49
+203            android:theme="@style/FullScreenTheme" />
+203-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:129:13-51
+204        <activity
+204-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:130:9-132:47
+205            android:name="com.canhub.cropper.CropImageActivity"
+205-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:131:13-64
+206            android:theme="@style/AppTheme" />
+206-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:132:13-44
+207        <activity
+207-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:133:9-136:59
+208            android:name="com.tech.world.activities.AgreePrivacyPolicyActivity"
+208-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:134:13-66
+209            android:exported="true"
+209-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:135:13-36
+210            android:theme="@style/AppTheme.NoActionBar" />
+210-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:136:13-56
+211        <activity
+211-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:137:9-140:59
+212            android:name="com.tech.world.activities.CameraActivity"
+212-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:138:13-54
+213            android:screenOrientation="portrait"
+213-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:139:13-49
+214            android:theme="@style/AppTheme.NoActionBar" />
+214-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:140:13-56
+215        <activity
+215-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:141:9-143:50
+216            android:name="com.tech.world.activities.ProfilePhotoDialog"
+216-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:142:13-58
+217            android:theme="@style/DialogTheme" />
+217-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:143:13-47
+218        <activity
+218-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:144:9-208:20
+219            android:name="com.tech.world.activities.ForwardActivity"
+219-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:145:13-55
+220            android:launchMode="singleTop"
+220-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:146:13-43
+221            android:screenOrientation="portrait"
+221-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:147:13-49
+222            android:theme="@style/AppTheme.NoActionBar" >
+222-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:148:13-56
+223
+224            <!-- these intent filters to receive data from other apps including images,videos,audio,contacts -->
+225
+226
+227            <!-- receive text -->
+228            <intent-filter>
+228-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:154:13-160:29
+229                <action android:name="android.intent.action.SEND" />
+229-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:17-69
+229-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:25-66
+230
+231                <category android:name="android.intent.category.DEFAULT" />
+231-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:17-76
+231-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:27-73
+232
+233                <data android:mimeType="text/plain" />
+233-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+233-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:23-52
+234            </intent-filter>
+235
+236            <!-- receive one image -->
+237            <intent-filter>
+237-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:163:13-169:29
+238                <action android:name="android.intent.action.SEND" />
+238-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:17-69
+238-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:25-66
+239
+240                <category android:name="android.intent.category.DEFAULT" />
+240-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:17-76
+240-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:27-73
+241
+242                <data android:mimeType="image/*" />
+242-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+242-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:23-52
+243            </intent-filter>
+244
+245            <!-- receive multiple images -->
+246
+247            <intent-filter>
+247-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:173:13-179:29
+248                <action android:name="android.intent.action.SEND_MULTIPLE" />
+248-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:174:17-78
+248-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:174:25-75
+249
+250                <category android:name="android.intent.category.DEFAULT" />
+250-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:17-76
+250-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:27-73
+251
+252                <data android:mimeType="image/*" />
+252-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+252-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:23-52
+253            </intent-filter>
+254
+255            <!-- receive one video only -->
+256
+257            <intent-filter>
+257-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:183:13-189:29
+258                <action android:name="android.intent.action.SEND" />
+258-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:17-69
+258-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:25-66
+259
+260                <category android:name="android.intent.category.DEFAULT" />
+260-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:17-76
+260-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:27-73
+261
+262                <data android:mimeType="video/*" />
+262-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+262-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:23-52
+263            </intent-filter>
+264
+265            <!-- receive one audio -->
+266            <intent-filter>
+266-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:192:13-198:29
+267                <action android:name="android.intent.action.SEND" />
+267-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:17-69
+267-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:25-66
+268
+269                <category android:name="android.intent.category.DEFAULT" />
+269-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:17-76
+269-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:27-73
+270
+271                <data android:mimeType="audio/*" />
+271-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+271-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:23-52
+272            </intent-filter>
+273
+274            <!-- receive contacts -->
+275            <intent-filter>
+275-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:201:13-207:29
+276                <action android:name="android.intent.action.SEND" />
+276-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:17-69
+276-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:155:25-66
+277
+278                <category android:name="android.intent.category.DEFAULT" />
+278-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:17-76
+278-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:27-73
+279
+280                <data android:mimeType="text/x-vcard" />
+280-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+280-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:23-52
+281            </intent-filter>
+282        </activity>
+283        <activity
+283-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:209:9-212:59
+284            android:name="com.tech.world.activities.UserDetailsActivity"
+284-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:210:13-59
+285            android:screenOrientation="portrait"
+285-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:211:13-49
+286            android:theme="@style/AppTheme.NoActionBar" />
+286-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:212:13-56
+287        <activity
+287-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:213:9-216:59
+288            android:name="com.tech.world.activities.MediaGalleryActivity"
+288-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:214:13-60
+289            android:screenOrientation="portrait"
+289-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:215:13-49
+290            android:theme="@style/AppTheme.NoActionBar" />
+290-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:216:13-56
+291        <activity
+291-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:217:9-220:47
+292            android:name="com.tech.world.activities.SelectContactNumbersActivity"
+292-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:218:13-68
+293            android:screenOrientation="portrait"
+293-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:219:13-49
+294            android:theme="@style/AppTheme" />
+294-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:220:13-44
+295        <activity
+295-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:221:9-224:47
+296            android:name="com.tech.world.activities.ContactDetailsActivity"
+296-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:222:13-62
+297            android:screenOrientation="portrait"
+297-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:223:13-49
+298            android:theme="@style/AppTheme" />
+298-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:224:13-44
+299        <activity
+299-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:225:9-230:52
+300            android:name="com.tech.world.activities.settings.SettingsActivity"
+300-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:226:13-65
+301            android:exported="true"
+301-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:227:13-36
+302            android:label="@string/title_activity_settings"
+302-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:228:13-60
+303            android:screenOrientation="portrait"
+303-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:229:13-49
+304            android:theme="@style/SettingsTheme" />
+304-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:230:13-49
+305        <activity
+305-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:231:9-234:54
+306            android:name="com.tech.world.activities.ProfilePhotoActivity"
+306-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:232:13-60
+307            android:screenOrientation="portrait"
+307-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:233:13-49
+308            android:theme="@style/FullScreenTheme" />
+308-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:234:13-51
+309        <activity
+309-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:235:9-238:59
+310            android:name="com.tech.world.activities.setup.SetupUserActivity"
+310-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:236:13-63
+311            android:screenOrientation="portrait"
+311-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:237:13-49
+312            android:theme="@style/AppTheme.NoActionBar" />
+312-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:238:13-56
+313        <activity
+313-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:239:9-241:59
+314            android:name="com.tech.world.activities.NewGroupActivity"
+314-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:240:13-56
+315            android:theme="@style/AppTheme.NoActionBar" />
+315-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:241:13-56
+316        <activity
+316-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:242:9-246:59
+317            android:name="com.tech.world.activities.ViewStatusActivity"
+317-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:243:13-58
+318            android:screenOrientation="portrait"
+318-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:244:13-49
+319            android:theme="@style/FullscreenTheme"
+319-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:245:13-51
+320            android:windowSoftInputMode="adjustNothing" />
+320-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:246:13-56
+321        <activity
+321-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:247:9-255:20
+322            android:name="com.tech.world.activities.MyStatusActivity"
+322-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:248:13-56
+323            android:label="@string/title_activity_my_status"
+323-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:249:13-61
+324            android:parentActivityName="com.tech.world.activities.main.MainActivity"
+324-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:250:13-71
+325            android:theme="@style/AppTheme.NoActionBar" >
+325-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:251:13-56
+326            <meta-data
+326-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:252:13-254:79
+327                android:name="android.support.PARENT_ACTIVITY"
+327-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:253:17-63
+328                android:value="com.tech.world.activities.main.MainActivity" />
+328-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:254:17-76
+329        </activity>
+330        <activity
+330-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:256:9-259:59
+331            android:name="com.tech.world.activities.calling.CallingActivity"
+331-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:257:13-63
+332            android:screenOrientation="portrait"
+332-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:258:13-49
+333            android:theme="@style/AppTheme.NoActionBar" />
+333-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:259:13-56
+334        <activity
+334-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:260:9-263:47
+335            android:name="com.tech.world.activities.NewCallActivity"
+335-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:261:13-55
+336            android:screenOrientation="portrait"
+336-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:262:13-49
+337            android:theme="@style/AppTheme" />
+337-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:263:13-44
+338        <activity
+338-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:264:9-283:20
+339            android:name="com.tech.world.activities.AcceptInviteLink"
+339-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:265:13-56
+340            android:screenOrientation="portrait"
+340-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:266:13-49
+341            android:theme="@style/DialogTheme" >
+341-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:267:13-47
+342            <intent-filter>
+342-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:268:13-282:29
+343                <action android:name="android.intent.action.VIEW" />
+343-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:269:17-69
+343-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:269:25-66
+344
+345                <category android:name="android.intent.category.DEFAULT" />
+345-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:17-76
+345-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:157:27-73
+346                <category android:name="android.intent.category.BROWSABLE" />
+346-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:272:17-78
+346-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:272:27-75
+347
+348                <data
+348-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+349                    android:host="@string/group_invite_host"
+349-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:275:21-61
+350                    android:pathPrefix="/"
+350-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:276:21-43
+351                    android:scheme="http" />
+351-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:277:21-42
+352                <data
+352-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:159:17-55
+353                    android:host="@string/group_invite_host"
+353-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:275:21-61
+354                    android:pathPrefix="/"
+354-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:276:21-43
+355                    android:scheme="https" />
+355-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:277:21-42
+356            </intent-filter>
+357        </activity>
+358        <activity
+358-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:284:9-287:59
+359            android:name="com.tech.world.placespicker.PlacesPickerActivity"
+359-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:285:13-62
+360            android:screenOrientation="portrait"
+360-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:286:13-49
+361            android:theme="@style/AppTheme.NoActionBar" />
+361-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:287:13-56
+362        <activity
+362-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:288:9-291:62
+363            android:name="com.tech.world.extensions.ExitAndRemoveFromRecentAppsDummyActivity"
+363-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:289:13-80
+364            android:screenOrientation="portrait"
+364-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:290:13-49
+365            android:theme="@android:style/Theme.NoDisplay" /> <!-- SERVICES -->
+365-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:291:13-59
+366        <service
+366-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:292:9-294:72
+367            android:name="com.tech.world.job.NetworkJobService"
+367-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:293:13-50
+368            android:permission="android.permission.BIND_JOB_SERVICE" />
+368-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:294:13-69
+369        <service
+369-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:295:9-297:72
+370            android:name="com.tech.world.job.SaveTokenJob"
+370-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:296:13-45
+371            android:permission="android.permission.BIND_JOB_SERVICE" />
+371-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:297:13-69
+372        <service
+372-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:298:9-300:72
+373            android:name="com.tech.world.job.SetLastSeenJob"
+373-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:299:13-47
+374            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- <service -->
+374-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:300:13-69
+375        <service
+375-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:301:9-308:19
+376            android:name="com.tech.world.services.MyFCMService"
+376-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:302:13-50
+377            android:enabled="true"
+377-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:303:13-35
+378            android:exported="false" >
+378-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:304:13-37
+379            <intent-filter>
+379-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:305:13-307:29
+380                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+380-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:306:17-78
+380-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:306:25-75
+381            </intent-filter>
+382        </service>
+383        <service
+383-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:309:9-311:40
+384            android:name="com.tech.world.services.FCMRegistrationService"
+384-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:310:13-60
+385            android:exported="false" />
+385-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:311:13-37
+386        <service
+386-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:312:9-315:40
+387            android:name="com.tech.world.services.InternetConnectedListener"
+387-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:313:13-63
+388            android:enabled="true"
+388-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:314:13-35
+389            android:exported="false" />
+389-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:315:13-37
+390        <service android:name="com.tech.world.services.NetworkService" />
+390-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:316:9-60
+390-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:316:18-57
+391        <service
+391-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:317:9-320:40
+392            android:name="com.tech.world.services.AudioService"
+392-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:318:13-50
+393            android:enabled="true"
+393-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:319:13-35
+394            android:exported="false" />
+394-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:320:13-37
+395
+396        <receiver
+396-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:322:9-324:40
+397            android:name="com.tech.world.receivers.HandleReplyReceiver"
+397-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:323:13-58
+398            android:exported="false" />
+398-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:324:13-37
+399        <receiver
+399-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:325:9-327:40
+400            android:name="com.tech.world.receivers.MarkAsReadReceiver"
+400-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:326:13-57
+401            android:exported="false" />
+401-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:327:13-37
+402
+403        <service
+403-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:329:9-331:40
+404            android:name="com.tech.world.services.CallingService"
+404-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:330:13-52
+405            android:exported="false" />
+405-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:331:13-37
+406
+407        <provider
+408            android:name="androidx.core.content.FileProvider"
+408-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:334:13-62
+409            android:authorities="com.tech.world.provider"
+409-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:335:13-60
+410            android:exported="false"
+410-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:336:13-37
+411            android:grantUriPermissions="true" >
+411-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:337:13-47
+412            <meta-data
+412-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:338:13-340:58
+413                android:name="android.support.FILE_PROVIDER_PATHS"
+413-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:339:17-67
+414                android:resource="@xml/provider_paths" />
+414-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:340:17-55
+415        </provider>
+416
+417        <meta-data
+417-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:343:9-345:52
+418            android:name="com.google.android.geo.API_KEY"
+418-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:344:13-58
+419            android:value="@string/maps_api_key" />
+419-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:345:13-49
+420        <meta-data
+420-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:346:9-348:52
+421            android:name="com.google.android.gms.ads.APPLICATION_ID"
+421-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:347:13-69
+422            android:value="@string/admob_app_id" />
+422-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:348:13-49
+423
+424        <activity
+424-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:350:9-353:59
+425            android:name="com.tech.world.activities.BackupChatActivity"
+425-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:351:13-58
+426            android:label="@string/title_activity_backup_chat"
+426-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:352:13-63
+427            android:theme="@style/AppTheme.NoActionBar" />
+427-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:353:13-56
+428        <activity
+428-->[:imageeditengine] C:\Users\HAMMAD\Desktop\fyp\imageeditengine\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-19:20
+429            android:name="com.droidninja.imageeditengine.ImageEditActivity"
+429-->[:imageeditengine] C:\Users\HAMMAD\Desktop\fyp\imageeditengine\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-76
+430            android:theme="@style/LibAppTheme"
+430-->[:imageeditengine] C:\Users\HAMMAD\Desktop\fyp\imageeditengine\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-47
+431            android:windowSoftInputMode="adjustNothing" >
+431-->[:imageeditengine] C:\Users\HAMMAD\Desktop\fyp\imageeditengine\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-56
+432        </activity>
+433        <activity
+433-->[com.github.broakenmedia:MultiContactPicker:1.8.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\7c2e554a1917042c6758183100567a25\jetified-MultiContactPicker-1.8.5\AndroidManifest.xml:17:9-20:20
+434            android:name="com.wafflecopter.multicontactpicker.MultiContactPickerActivity"
+434-->[com.github.broakenmedia:MultiContactPicker:1.8.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\7c2e554a1917042c6758183100567a25\jetified-MultiContactPicker-1.8.5\AndroidManifest.xml:18:13-90
+435            android:label="@string/picker_title" >
+435-->[com.github.broakenmedia:MultiContactPicker:1.8.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\7c2e554a1917042c6758183100567a25\jetified-MultiContactPicker-1.8.5\AndroidManifest.xml:19:13-49
+436        </activity>
+437        <activity android:name="com.zhihu.matisse.ui.MatisseActivity" />
+437-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\83a6fedfdc3850500e02e70c6d8d376c\jetified-matisse-0.5.3-beta3\AndroidManifest.xml:28:9-73
+437-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\83a6fedfdc3850500e02e70c6d8d376c\jetified-matisse-0.5.3-beta3\AndroidManifest.xml:28:19-70
+438        <activity android:name="com.zhihu.matisse.internal.ui.AlbumPreviewActivity" />
+438-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\83a6fedfdc3850500e02e70c6d8d376c\jetified-matisse-0.5.3-beta3\AndroidManifest.xml:29:9-87
+438-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\83a6fedfdc3850500e02e70c6d8d376c\jetified-matisse-0.5.3-beta3\AndroidManifest.xml:29:19-84
+439        <activity android:name="com.zhihu.matisse.internal.ui.SelectedPreviewActivity" />
+439-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\83a6fedfdc3850500e02e70c6d8d376c\jetified-matisse-0.5.3-beta3\AndroidManifest.xml:30:9-90
+439-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\83a6fedfdc3850500e02e70c6d8d376c\jetified-matisse-0.5.3-beta3\AndroidManifest.xml:30:19-87
+440
+441        <provider
+441-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:25:9-33:20
+442            android:name="com.canhub.cropper.CropFileProvider"
+442-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:26:13-63
+443            android:authorities="com.tech.world.cropper.fileprovider"
+443-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:27:13-72
+444            android:exported="false"
+444-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:28:13-37
+445            android:grantUriPermissions="true" >
+445-->[com.github.CanHub:Android-Image-Cropper:2.1.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2f6c5555f34413ef74b19f1484c89322\jetified-Android-Image-Cropper-2.1.1\AndroidManifest.xml:29:13-47
+446            <meta-data
+446-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:338:13-340:58
+447                android:name="android.support.FILE_PROVIDER_PATHS"
+447-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:339:17-67
+448                android:resource="@xml/library_file_paths" />
+448-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:340:17-55
+449        </provider>
+450
+451        <activity
+451-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:36:9-42:58
+452            android:name="org.jitsi.meet.sdk.JitsiMeetActivity"
+452-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:37:13-64
+453            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize"
+453-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:38:13-115
+454            android:launchMode="singleTask"
+454-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:39:13-44
+455            android:resizeableActivity="true"
+455-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:40:13-46
+456            android:supportsPictureInPicture="true"
+456-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:41:13-52
+457            android:windowSoftInputMode="adjustResize" />
+457-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:42:13-55
+458        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+458-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:43:9-86
+458-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:43:19-83
+459
+460        <service
+460-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:45:9-52:19
+461            android:name="org.jitsi.meet.sdk.ConnectionService"
+461-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:46:13-64
+462            android:exported="true"
+462-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:47:13-36
+463            android:permission="android.permission.BIND_TELECOM_CONNECTION_SERVICE" >
+463-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:48:13-84
+464            <intent-filter>
+464-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:49:13-51:29
+465                <action android:name="android.telecom.ConnectionService" />
+465-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:50:17-76
+465-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:50:25-73
+466            </intent-filter>
+467        </service>
+468        <service
+468-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:53:9-55:63
+469            android:name="org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService"
+469-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:54:13-80
+470            android:foregroundServiceType="mediaProjection" />
+470-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:55:13-60
+471
+472        <provider
+472-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:57:9-62:20
+473            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+473-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:58:13-83
+474            android:authorities="com.tech.world.fileprovider"
+474-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:59:13-64
+475            android:enabled="false"
+475-->[org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3de1c842481f7bc62fb59a84ac91de52\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:60:13-36
+476            android:exported="false"
+476-->[com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\46f0c037062667fc5a00d892c1e9b7ca\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:15:13-37
+477            android:grantUriPermissions="true" >
+477-->[com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\46f0c037062667fc5a00d892c1e9b7ca\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:16:13-47
+478            <meta-data
+478-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:338:13-340:58
+479                android:name="android.support.FILE_PROVIDER_PATHS"
+479-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:339:17-67
+480                android:resource="@xml/file_provider_paths" />
+480-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:340:17-55
+481        </provider>
+482
+483        <activity
+483-->[com.karumi:dexter:6.2.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8a789fb1c1e1303b10c45d553cc4ef31\jetified-dexter-6.2.2\AndroidManifest.xml:27:9-29:72
+484            android:name="com.karumi.dexter.DexterActivity"
+484-->[com.karumi:dexter:6.2.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8a789fb1c1e1303b10c45d553cc4ef31\jetified-dexter-6.2.2\AndroidManifest.xml:28:13-60
+485            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+485-->[com.karumi:dexter:6.2.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8a789fb1c1e1303b10c45d553cc4ef31\jetified-dexter-6.2.2\AndroidManifest.xml:29:13-69
+486
+487        <provider
+487-->[com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c21dbb587350047793da75c1aef254f0\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:10:9-13:40
+488            android:name="com.oblador.performance.StartTimeProvider"
+488-->[com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c21dbb587350047793da75c1aef254f0\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:11:13-69
+489            android:authorities="com.tech.world.start.time.provider"
+489-->[com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c21dbb587350047793da75c1aef254f0\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:12:13-71
+490            android:exported="false" />
+490-->[com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c21dbb587350047793da75c1aef254f0\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:13:13-37
+491        <!--
+492             FirebaseMessagingService performs security checks at runtime,
+493             but set to not exported to explicitly avoid allowing another app to call it.
+494        -->
+495        <service
+495-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:28:9-35:19
+496            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+496-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:29:13-82
+497            android:directBootAware="true"
+497-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:30:13-43
+498            android:exported="false" >
+498-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:31:13-37
+499            <intent-filter android:priority="-500" >
+499-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:305:13-307:29
+500                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+500-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:306:17-78
+500-->C:\Users\HAMMAD\Desktop\fyp\app\src\main\AndroidManifest.xml:306:25-75
+501            </intent-filter>
+502        </service>
+503        <service
+503-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:36:9-42:19
+504            android:name="com.google.firebase.components.ComponentDiscoveryService"
+504-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:37:13-84
+505            android:directBootAware="true"
+505-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+506            android:exported="false" >
+506-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:38:13-37
+507            <meta-data
+507-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:39:13-41:85
+508                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+508-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:40:17-119
+509                android:value="com.google.firebase.components.ComponentRegistrar" />
+509-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c8f2a296b9db27943578a6d1f8703af8\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:41:17-82
+510            <meta-data
+510-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:36:13-38:85
+511                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+511-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:37:17-109
+512                android:value="com.google.firebase.components.ComponentRegistrar" />
+512-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:38:17-82
+513            <meta-data
+513-->[com.google.firebase:firebase-database-ktx:19.6.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8e8f248530db01bcdc65a04d5cf4c24a\jetified-firebase-database-ktx-19.6.0\AndroidManifest.xml:15:13-17:85
+514                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+514-->[com.google.firebase:firebase-database-ktx:19.6.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8e8f248530db01bcdc65a04d5cf4c24a\jetified-firebase-database-ktx-19.6.0\AndroidManifest.xml:16:17-124
+515                android:value="com.google.firebase.components.ComponentRegistrar" />
+515-->[com.google.firebase:firebase-database-ktx:19.6.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8e8f248530db01bcdc65a04d5cf4c24a\jetified-firebase-database-ktx-19.6.0\AndroidManifest.xml:17:17-82
+516            <meta-data
+516-->[com.google.firebase:firebase-database:19.6.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a0edceb84eda48da4745eac0a58cf6b5\jetified-firebase-database-19.6.0\AndroidManifest.xml:32:13-34:85
+517                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+517-->[com.google.firebase:firebase-database:19.6.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a0edceb84eda48da4745eac0a58cf6b5\jetified-firebase-database-19.6.0\AndroidManifest.xml:33:17-109
+518                android:value="com.google.firebase.components.ComponentRegistrar" />
+518-->[com.google.firebase:firebase-database:19.6.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a0edceb84eda48da4745eac0a58cf6b5\jetified-firebase-database-19.6.0\AndroidManifest.xml:34:17-82
+519            <meta-data
+519-->[com.google.firebase:firebase-storage-ktx:19.2.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\6531eec704306acddf164dee0c0cf6d2\jetified-firebase-storage-ktx-19.2.1\AndroidManifest.xml:15:13-17:85
+520                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+520-->[com.google.firebase:firebase-storage-ktx:19.2.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\6531eec704306acddf164dee0c0cf6d2\jetified-firebase-storage-ktx-19.2.1\AndroidManifest.xml:16:17-122
+521                android:value="com.google.firebase.components.ComponentRegistrar" />
+521-->[com.google.firebase:firebase-storage-ktx:19.2.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\6531eec704306acddf164dee0c0cf6d2\jetified-firebase-storage-ktx-19.2.1\AndroidManifest.xml:17:17-82
+522            <meta-data
+522-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a65c8fdcd7b42f34af6ddb48aaf9b69b\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
+523                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+523-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a65c8fdcd7b42f34af6ddb48aaf9b69b\jetified-firebase-storage-19.2.1\AndroidManifest.xml:34:17-107
+524                android:value="com.google.firebase.components.ComponentRegistrar" />
+524-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a65c8fdcd7b42f34af6ddb48aaf9b69b\jetified-firebase-storage-19.2.1\AndroidManifest.xml:35:17-82
+525            <meta-data
+525-->[com.google.firebase:firebase-functions:19.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67562d8ae150c0e9cacd3c07ef7ec4cc\jetified-firebase-functions-19.2.0\AndroidManifest.xml:18:13-20:85
+526                android:name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar"
+526-->[com.google.firebase:firebase-functions:19.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67562d8ae150c0e9cacd3c07ef7ec4cc\jetified-firebase-functions-19.2.0\AndroidManifest.xml:19:17-111
+527                android:value="com.google.firebase.components.ComponentRegistrar" />
+527-->[com.google.firebase:firebase-functions:19.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\67562d8ae150c0e9cacd3c07ef7ec4cc\jetified-firebase-functions-19.2.0\AndroidManifest.xml:20:17-82
+528            <meta-data
+528-->[com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e21c1ea946bde83bd2e1ff87728adab0\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:15:13-17:85
+529                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+529-->[com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e21c1ea946bde83bd2e1ff87728adab0\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:16:17-113
+530                android:value="com.google.firebase.components.ComponentRegistrar" />
+530-->[com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e21c1ea946bde83bd2e1ff87728adab0\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:17:17-82
+531            <meta-data
+531-->[com.google.firebase:firebase-datatransport:17.0.10] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\bfd7ff1b1ce39edfb3be58dba16e3785\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:28:13-30:85
+532                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+532-->[com.google.firebase:firebase-datatransport:17.0.10] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\bfd7ff1b1ce39edfb3be58dba16e3785\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:29:17-115
+533                android:value="com.google.firebase.components.ComponentRegistrar" />
+533-->[com.google.firebase:firebase-datatransport:17.0.10] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\bfd7ff1b1ce39edfb3be58dba16e3785\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:30:17-82
+534            <meta-data
+534-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:32:13-34:85
+535                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+535-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:33:17-96
+536                android:value="com.google.firebase.components.ComponentRegistrar" />
+536-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:34:17-82
+537            <meta-data
+537-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ddcf44c37f6634bf4a3eebac2f935ed8\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:30:13-32:85
+538                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+538-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ddcf44c37f6634bf4a3eebac2f935ed8\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:31:17-139
+539                android:value="com.google.firebase.components.ComponentRegistrar" />
+539-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ddcf44c37f6634bf4a3eebac2f935ed8\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:32:17-82
+540            <meta-data
+540-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\eee71794089851a45991e11bca219a66\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+541                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+541-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\eee71794089851a45991e11bca219a66\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+542                android:value="com.google.firebase.components.ComponentRegistrar" />
+542-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\eee71794089851a45991e11bca219a66\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+543            <!--
+544                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+545                clients to use it as well, by defining this registrar in their own core/common library.
+546            -->
+547            <meta-data
+547-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+548                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+548-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+549                android:value="com.google.firebase.components.ComponentRegistrar" />
+549-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+550        </service>
+551
+552        <activity
+552-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:24:9-31:50
+553            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+553-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:25:13-85
+554            android:excludeFromRecents="true"
+554-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:26:13-46
+555            android:exported="true"
+555-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:27:13-36
+556            android:launchMode="singleTask"
+556-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:28:13-44
+557            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+557-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:29:13-102
+558            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+558-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b8a2f33b3c7d4e4adf98b5ed007775e7\jetified-firebase-auth-19.4.0\AndroidManifest.xml:30:13-72
+559
+560        <service
+560-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:17:9-20:72
+561            android:name="com.evernote.android.job.v21.PlatformJobService"
+561-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:18:13-75
+562            android:exported="false"
+562-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:19:13-37
+563            android:permission="android.permission.BIND_JOB_SERVICE" />
+563-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:20:13-69
+564        <service
+564-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:21:9-24:72
+565            android:name="com.evernote.android.job.v14.PlatformAlarmService"
+565-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:22:13-77
+566            android:exported="false"
+566-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:23:13-37
+567            android:permission="android.permission.BIND_JOB_SERVICE" />
+567-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:24:13-69
+568        <service
+568-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:25:9-27:40
+569            android:name="com.evernote.android.job.v14.PlatformAlarmServiceExact"
+569-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:26:13-82
+570            android:exported="false" />
+570-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:27:13-37
+571
+572        <receiver
+572-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:29:9-38:20
+573            android:name="com.evernote.android.job.v14.PlatformAlarmReceiver"
+573-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:30:13-78
+574            android:exported="false" >
+574-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:31:13-37
+575            <intent-filter>
+575-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:32:13-37:29
+576
+577                <!-- Keep the filter for legacy intents -->
+578                <action android:name="com.evernote.android.job.v14.RUN_JOB" />
+578-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:35:17-79
+578-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:35:25-76
+579                <action android:name="net.vrallev.android.job.v14.RUN_JOB" />
+579-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:36:17-78
+579-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:36:25-75
+580            </intent-filter>
+581        </receiver>
+582        <receiver
+582-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:39:9-48:20
+583            android:name="com.evernote.android.job.JobBootReceiver"
+583-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:40:13-68
+584            android:exported="false" >
+584-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:41:13-37
+585            <intent-filter>
+585-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:42:13-47:29
+586                <action android:name="android.intent.action.BOOT_COMPLETED" />
+586-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:43:17-79
+586-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:43:25-76
+587                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+587-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:44:17-82
+587-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:44:25-79
+588                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+588-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:45:17-82
+588-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:45:25-79
+589                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+589-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:46:17-84
+589-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:46:25-81
+590            </intent-filter>
+591        </receiver>
+592
+593        <service
+593-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:50:9-58:19
+594            android:name="com.evernote.android.job.gcm.PlatformGcmService"
+594-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:51:13-75
+595            android:enabled="false"
+595-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:52:13-36
+596            android:exported="true"
+596-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:53:13-36
+597            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+597-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:54:13-93
+598            <intent-filter>
+598-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:55:13-57:29
+599                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+599-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:56:17-87
+599-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:56:25-84
+600            </intent-filter>
+601        </service>
+602        <service
+602-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:59:9-62:72
+603            android:name="com.evernote.android.job.JobRescheduleService"
+603-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:60:13-73
+604            android:exported="false"
+604-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:61:13-37
+605            android:permission="android.permission.BIND_JOB_SERVICE" />
+605-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:62:13-69
+606
+607        <provider
+607-->[com.squareup.picasso:picasso:2.71828] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c281446b2f45f3c4d8b3e57d5cdb6eb7\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+608            android:name="com.squareup.picasso.PicassoProvider"
+608-->[com.squareup.picasso:picasso:2.71828] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c281446b2f45f3c4d8b3e57d5cdb6eb7\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+609            android:authorities="com.tech.world.com.squareup.picasso"
+609-->[com.squareup.picasso:picasso:2.71828] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c281446b2f45f3c4d8b3e57d5cdb6eb7\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+610            android:exported="false" />
+610-->[com.squareup.picasso:picasso:2.71828] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c281446b2f45f3c4d8b3e57d5cdb6eb7\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+611
+612        <service
+612-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c3b6839f44afb306f024e48f3ab04d63\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+613            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+613-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c3b6839f44afb306f024e48f3ab04d63\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+614            android:exported="false" >
+614-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c3b6839f44afb306f024e48f3ab04d63\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+615            <meta-data
+615-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c3b6839f44afb306f024e48f3ab04d63\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+616                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+616-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c3b6839f44afb306f024e48f3ab04d63\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+617                android:value="cct" />
+617-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c3b6839f44afb306f024e48f3ab04d63\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+618        </service>
+619
+620        <receiver
+620-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:37:9-44:20
+621            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+621-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:38:13-78
+622            android:exported="true"
+622-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:39:13-36
+623            android:permission="com.google.android.c2dm.permission.SEND" >
+623-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:40:13-73
+624            <intent-filter>
+624-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:41:13-43:29
+625                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+625-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:42:17-81
+625-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\3aaad40d584acad378980ac579cf72c5\jetified-firebase-iid-21.0.1\AndroidManifest.xml:42:25-78
+626            </intent-filter>
+627        </receiver>
+628
+629        <provider
+629-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+630            android:name="com.google.firebase.provider.FirebaseInitProvider"
+630-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+631            android:authorities="com.tech.world.firebaseinitprovider"
+631-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+632            android:directBootAware="true"
+632-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+633            android:exported="false"
+633-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+634            android:initOrder="100" />
+634-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\8cc5623ce81a78e0f9a27f6db21836ec\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+635
+636        <receiver
+636-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:29:9-33:20
+637            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+637-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:30:13-85
+638            android:enabled="true"
+638-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:31:13-35
+639            android:exported="false" >
+639-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:32:13-37
+640        </receiver>
+641
+642        <service
+642-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:35:9-38:40
+643            android:name="com.google.android.gms.measurement.AppMeasurementService"
+643-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:36:13-84
+644            android:enabled="true"
+644-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:37:13-35
+645            android:exported="false" />
+645-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:38:13-37
+646        <service
+646-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:39:9-43:72
+647            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+647-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:40:13-87
+648            android:enabled="true"
+648-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:41:13-35
+649            android:exported="false"
+649-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:42:13-37
+650            android:permission="android.permission.BIND_JOB_SERVICE" />
+650-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f09d3833a79ca1627996d81efdd8c1ad\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:43:13-69
+651
+652        <activity
+652-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+653            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+653-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+654            android:excludeFromRecents="true"
+654-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+655            android:exported="false"
+655-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+656            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+656-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+657        <!--
+658            Service handling Google Sign-In user revocation. For apps that do not integrate with
+659            Google Sign-In, this service will never be started.
+660        -->
+661        <service
+661-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+662            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+662-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+663            android:exported="true"
+663-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+664            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+664-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\ea3759a6b670851bd6bfa1cad709de7f\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+665
+666        <activity
+666-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e84040a3fe4f2979a32cf9c9a1573818\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+667            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+667-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e84040a3fe4f2979a32cf9c9a1573818\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+668            android:exported="false"
+668-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e84040a3fe4f2979a32cf9c9a1573818\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+669            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+669-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e84040a3fe4f2979a32cf9c9a1573818\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+670        <activity
+670-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:48:9-52:64
+671            android:name="com.google.android.gms.ads.AdActivity"
+671-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:49:13-65
+672            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+672-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:50:13-122
+673            android:exported="false"
+673-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:51:13-37
+674            android:theme="@android:style/Theme.Translucent" />
+674-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:52:13-61
+675
+676        <provider
+676-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:54:9-58:39
+677            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+677-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:55:13-76
+678            android:authorities="com.tech.world.mobileadsinitprovider"
+678-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:56:13-73
+679            android:exported="false"
+679-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:57:13-37
+680            android:initOrder="100" />
+680-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:58:13-36
+681
+682        <service
+682-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:60:9-63:40
+683            android:name="com.google.android.gms.ads.AdService"
+683-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:61:13-64
+684            android:enabled="true"
+684-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:62:13-35
+685            android:exported="false" />
+685-->[com.google.android.gms:play-services-ads-lite:19.7.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a8e8f01ec6dc3a71ba924cf6c1c63e6d\jetified-play-services-ads-lite-19.7.0\AndroidManifest.xml:63:13-37
+686
+687        <meta-data
+687-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a0630540d64cd8489373e213c091b25f\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+688            android:name="com.google.android.gms.version"
+688-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a0630540d64cd8489373e213c091b25f\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+689            android:value="@integer/google_play_services_version" />
+689-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\a0630540d64cd8489373e213c091b25f\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+690
+691        <provider
+691-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:30:9-36:35
+692            android:name="androidx.work.impl.WorkManagerInitializer"
+692-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:31:13-69
+693            android:authorities="com.tech.world.workmanager-init"
+693-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:32:13-68
+694            android:directBootAware="false"
+694-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:33:13-44
+695            android:exported="false"
+695-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:34:13-37
+696            android:multiprocess="true" />
+696-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:35:13-40
+697
+698        <service
+698-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:38:9-43:35
+699            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+699-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:39:13-88
+700            android:directBootAware="false"
+700-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:40:13-44
+701            android:enabled="@bool/enable_system_alarm_service_default"
+701-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:41:13-72
+702            android:exported="false" />
+702-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:42:13-37
+703        <service
+703-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:44:9-50:35
+704            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+704-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:45:13-84
+705            android:directBootAware="false"
+705-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:46:13-44
+706            android:enabled="@bool/enable_system_job_service_default"
+706-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:47:13-70
+707            android:exported="true"
+707-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:48:13-36
+708            android:permission="android.permission.BIND_JOB_SERVICE" />
+708-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:49:13-69
+709
+710        <receiver
+710-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:52:9-57:35
+711            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+711-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:53:13-88
+712            android:directBootAware="false"
+712-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:54:13-44
+713            android:enabled="true"
+713-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:55:13-35
+714            android:exported="false" />
+714-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:56:13-37
+715        <receiver
+715-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:58:9-68:20
+716            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+716-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:59:13-106
+717            android:directBootAware="false"
+717-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:60:13-44
+718            android:enabled="false"
+718-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:61:13-36
+719            android:exported="false" >
+719-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:62:13-37
+720            <intent-filter>
+720-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:64:13-67:29
+721                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+721-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:65:17-87
+721-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:65:25-84
+722                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+722-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:66:17-90
+722-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:66:25-87
+723            </intent-filter>
+724        </receiver>
+725        <receiver
+725-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:69:9-79:20
+726            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+726-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:70:13-104
+727            android:directBootAware="false"
+727-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:71:13-44
+728            android:enabled="false"
+728-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:72:13-36
+729            android:exported="false" >
+729-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:73:13-37
+730            <intent-filter>
+730-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:75:13-78:29
+731                <action android:name="android.intent.action.BATTERY_OKAY" />
+731-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:76:17-77
+731-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:76:25-74
+732                <action android:name="android.intent.action.BATTERY_LOW" />
+732-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:77:17-76
+732-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:77:25-73
+733            </intent-filter>
+734        </receiver>
+735        <receiver
+735-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:80:9-90:20
+736            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+736-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:81:13-104
+737            android:directBootAware="false"
+737-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:82:13-44
+738            android:enabled="false"
+738-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:83:13-36
+739            android:exported="false" >
+739-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:84:13-37
+740            <intent-filter>
+740-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:86:13-89:29
+741                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+741-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:87:17-83
+741-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:87:25-80
+742                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+742-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:88:17-82
+742-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:88:25-79
+743            </intent-filter>
+744        </receiver>
+745        <receiver
+745-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:91:9-100:20
+746            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+746-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:92:13-103
+747            android:directBootAware="false"
+747-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:93:13-44
+748            android:enabled="false"
+748-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:94:13-36
+749            android:exported="false" >
+749-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:95:13-37
+750            <intent-filter>
+750-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:97:13-99:29
+751                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+751-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:98:17-79
+751-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:98:25-76
+752            </intent-filter>
+753        </receiver>
+754        <receiver
+754-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:101:9-112:20
+755            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+755-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:102:13-88
+756            android:directBootAware="false"
+756-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:103:13-44
+757            android:enabled="false"
+757-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:104:13-36
+758            android:exported="false" >
+758-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:105:13-37
+759            <intent-filter>
+759-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:107:13-111:29
+760                <action android:name="android.intent.action.BOOT_COMPLETED" />
+760-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:43:17-79
+760-->[com.evernote:android-job:1.2.6] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\2c6727a59a4cd0b22b11ce7dba87d5b3\jetified-android-job-1.2.6\AndroidManifest.xml:43:25-76
+761                <action android:name="android.intent.action.TIME_SET" />
+761-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:109:17-73
+761-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:109:25-70
+762                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+762-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:110:17-81
+762-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:110:25-78
+763            </intent-filter>
+764        </receiver>
+765        <receiver
+765-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:113:9-122:20
+766            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+766-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:114:13-99
+767            android:directBootAware="false"
+767-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:115:13-44
+768            android:enabled="@bool/enable_system_alarm_service_default"
+768-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:116:13-72
+769            android:exported="false" >
+769-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:117:13-37
+770            <intent-filter>
+770-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:119:13-121:29
+771                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+771-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:120:17-98
+771-->[androidx.work:work-runtime:2.1.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\b2d4e337367bacc95ae955684d7901ed\work-runtime-2.1.0\AndroidManifest.xml:120:25-95
+772            </intent-filter>
+773        </receiver>
+774
+775        <provider
+775-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c14fd26e227f9639ddb484f596c724e9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+776            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+776-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c14fd26e227f9639ddb484f596c724e9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+777            android:authorities="com.tech.world.lifecycle-process"
+777-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c14fd26e227f9639ddb484f596c724e9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+778            android:exported="false"
+778-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c14fd26e227f9639ddb484f596c724e9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+779            android:multiprocess="true" />
+779-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\c14fd26e227f9639ddb484f596c724e9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+780
+781        <service
+781-->[androidx.room:room-runtime:2.2.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e1adf60013b4074de3051c5c2f3fe096\room-runtime-2.2.3\AndroidManifest.xml:25:9-27:40
+782            android:name="androidx.room.MultiInstanceInvalidationService"
+782-->[androidx.room:room-runtime:2.2.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e1adf60013b4074de3051c5c2f3fe096\room-runtime-2.2.3\AndroidManifest.xml:26:13-74
+783            android:exported="false" />
+783-->[androidx.room:room-runtime:2.2.3] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\e1adf60013b4074de3051c5c2f3fe096\room-runtime-2.2.3\AndroidManifest.xml:27:13-37
+784        <service
+784-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f8385a54491e71b0b93b830334d94a64\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+785            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+785-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f8385a54491e71b0b93b830334d94a64\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+786            android:exported="false"
+786-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f8385a54491e71b0b93b830334d94a64\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+787            android:permission="android.permission.BIND_JOB_SERVICE" >
+787-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f8385a54491e71b0b93b830334d94a64\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+788        </service>
+789
+790        <receiver
+790-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f8385a54491e71b0b93b830334d94a64\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+791            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+791-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f8385a54491e71b0b93b830334d94a64\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
+792            android:exported="false" />
+792-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\HAMMAD\.gradle\caches\transforms-2\files-2.1\f8385a54491e71b0b93b830334d94a64\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+793    </application>
+794
+795</manifest>

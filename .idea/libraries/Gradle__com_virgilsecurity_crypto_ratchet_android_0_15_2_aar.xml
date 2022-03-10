@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.virgilsecurity.crypto:ratchet-android:0.15.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee00777eca79f7f55258e0b399c8a839/jetified-ratchet-android-0.15.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee00777eca79f7f55258e0b399c8a839/jetified-ratchet-android-0.15.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee00777eca79f7f55258e0b399c8a839/jetified-ratchet-android-0.15.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.crypto/ratchet-android/0.15.2/37a96d08750c602139fd8efcb050923eeb01420b/ratchet-android-0.15.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.crypto/ratchet-android/0.15.2/52089d44ebef5de6aff0944e91b7114884a444b7/ratchet-android-0.15.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
