@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.virgilsecurity.crypto:pythia-android:0.15.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4841b163b1fdf1725ff0c4424dca2ec/jetified-pythia-android-0.15.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4841b163b1fdf1725ff0c4424dca2ec/jetified-pythia-android-0.15.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4841b163b1fdf1725ff0c4424dca2ec/jetified-pythia-android-0.15.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.crypto/pythia-android/0.15.2/84f72c86ec776b09820790c8af988ada71a9663a/pythia-android-0.15.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.crypto/pythia-android/0.15.2/5a6c3b4b5a2eb3397f56ebfadee8a57e010b511/pythia-android-0.15.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

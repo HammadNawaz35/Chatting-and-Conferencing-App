@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.virgilsecurity:common:7.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/common/7.3.2/7238e0bde35fa1af066be9b8d3b309455a82840b/common-7.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/common/7.3.2/1bb1060813516aa16b70a2f6f7dcf8c6d397ebb4/common-7.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/common/7.3.2/f1fb0b20aa87bcbd837c637ff2a6c22c948bc328/common-7.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

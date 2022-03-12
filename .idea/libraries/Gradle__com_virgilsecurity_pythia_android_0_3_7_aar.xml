@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.virgilsecurity:pythia-android:0.3.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05dd66a6e7677ff1a403b489dd1941b0/jetified-pythia-android-0.3.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05dd66a6e7677ff1a403b489dd1941b0/jetified-pythia-android-0.3.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05dd66a6e7677ff1a403b489dd1941b0/jetified-pythia-android-0.3.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/pythia-android/0.3.7/8308f09902fa847d201b56336f47cd31eca6e996/pythia-android-0.3.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/pythia-android/0.3.7/957d5c8ce251d2f5423d628d76476902ce075d29/pythia-android-0.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
