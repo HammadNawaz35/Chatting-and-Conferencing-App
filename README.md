@@ -3,6 +3,7 @@
 Chat and Conferencing  App
 
 Overview
+
 This Final year project is a comprehensive chatting and conferencing application designed to provide users with a seamlesscommunication experience across various platforms. It includes basic messaging features, media sharing capabilities, as well as advanced conferencing functionalities akin to popular platforms like Zoom.
 
 Features
