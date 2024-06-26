@@ -35,12 +35,19 @@ Security options to ensure privacy and data protection.
 Authentication:
 
 OTP login for secure access.
+
 Technologies Used
 Frontend: Xml
+
 Backeend: Java, Kotlin
+
 Database: Firebase
+
 Call sdk: Agora.io
+
 notifications:One Signal
-Meetings Sdk : Jitsu
+
+Meetings Sdk : Jitsi
+
 cloud providers used:Google Cloud 
 
