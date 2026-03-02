@@ -28,23 +28,23 @@ This Final Year Project delivers:
 ---
 ## 📸 Screenshots
 
-| Boarding Screen | Home Screen | Library Screen |
+| OTP Verification | Home Screen | chat Screen |
 |-----------------|------------|----------------|
 | ![1](assets/1.png) | ![2](assets/2.png) | ![3](assets/3.png) |
 
-| Play Screen | Favorites Screen | Theme Screen |
+|Group Controls| Calling Screen | Status Screen |
 |------------|----------------|--------------|
 | ![4](assets/4.png) | ![5](assets/5.png) | ![6](assets/6.png) |
 
-| Upnext Screen | Search Screen | Settings Screen |
+| Host/Join Meetings(Mob) | Meeting Controls| Host/Join Meetings(Web) |
 |---------------|---------------|----------------|
 | ![7](assets/7.png) | ![8](assets/8.png) | ![9](assets/9.png) |
 
-| Mini Player | Player Queue | Call Screen |
+| Calling Screen | Screen Share | Settings Screen |
 |-------------|--------------|------------|
 | ![10](assets/10.png) | ![11](assets/11.png) | ![12](assets/12.png) |
 
-| Chat Screen | Notification Screen | Profile Screen |
+| preferences Screen |Meetings Controls | Meeting Security |
 |------------|--------------------|----------------|
 | ![13](assets/13.png) | ![14](assets/14.png) | ![80](assets/80.png) |
 
